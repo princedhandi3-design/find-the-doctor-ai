@@ -112,12 +112,16 @@ npm run preview
 - [ ] Integration with verified medical provider directories
 - [ ] HIPAA compliance review for healthcare data
 
----
+---Screenshot
+ ![Image Alt]([https://github.com/princedhandi3-design/find-the-doctor-ai/blob/main/WhatsApp%20Image%202026-08-01%20at%2010.14.40%20PM.jpeg)
+  ![Image Alt](https://github.com/princedhandi3-design/find-the-doctor-ai/blob/main/WhatsApp%20Image%202026-08-01%20at%2010.14.40%20PM%20(1).jpeg)
+   ![Image Alt](https://github.com/princedhandi3-design/find-the-doctor-ai/blob/main/WhatsApp%20Image%202026-08-01%20at%2010.14.40%20PM%20(2).jpeg)
+    ![Image Alt](https://github.com/princedhandi3-design/find-the-doctor-ai/blob/main/WhatsApp%20Image%202026-08-01%20at%2010.14.41%20PM.jpeg)
 
 ## Team
 
-[Add your team names here]
-
+Armanjot Singh Dhandi (Team leader : ui and demo video)
+Abhijot Singh Dhandi (Backend :backend ,presentation)
 ---
 
 ## AI Usage Disclosure
@@ -125,7 +129,8 @@ npm run preview
 This project uses AI per C.O.D.E. Hack 7.0 guidelines:
 
 ### Tools Used
-- **Google Gemini 2.0 Flash API** — Medical symptom analysis and triage
+- **Google Gemini latest Flash API** — Medical symptom analysis and triage
+- **Notebookllm - to write presentation
 
 ### Purpose of AI Usage
 - **Symptom Analysis:** Gemini processes user symptoms/medical history to recommend specialty and urgency
