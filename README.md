@@ -160,5 +160,5 @@ MIT
 
 ## Submission Materials
 
-- **Demo Video:** See `/demo-video.mp4` (2-5 minutes showing working prototype)
-- **Presentation:** See `/presentation.pptx` (problem, solution, tech stack, impact)
+- **Demo Video:** See `/VID-20260801-Wa0007.mp4` (2-5 minutes showing working prototype)
+- **Presentation:** See `/Find The Doctor Ai.pptx` (problem, solution, tech stack, impact)
