@@ -64,7 +64,7 @@ FindTheDoctor AI combines:
 
 3. Set up environment variables
    ```bash
-   cp .env.example .env
+  echo VITE_GEMINI_API_KEY=your_new_key_here > .env
    ```
    Then edit `.env` and add your Gemini API key:
    ```
