@@ -92,7 +92,7 @@ npm run preview
 - **Frontend:** React 19 + TypeScript
 - **Styling:** Tailwind CSS 4.3
 - **Build Tool:** Vite 8
-- **AI Model:** Google Gemini 2.0 Flash (`gemini-flash-latest`)
+- **AI Model:** Google Gemini latest Flash (`gemini-flash-latest`)
 - **Location Services:** OpenStreetMap Overpass API (free, no API key required)
 - **Routing:** React Router DOM v7
 - **Icons:** Lucide React
