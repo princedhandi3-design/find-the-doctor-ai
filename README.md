@@ -28,7 +28,7 @@ FindTheDoctor AI combines:
 
 ✅ **AI Symptom Analysis**
 - Multi-step interview flow collecting symptoms, age, duration, pain severity, and medical history
-- Google Gemini 2.0 Flash model for fast, accurate triage
+- Google Gemini Flash latest model for fast, accurate triage
 - Returns: recommended specialty, confidence score, urgency level, medical reasoning
 
 ✅ **Nearby Doctor Finder**
