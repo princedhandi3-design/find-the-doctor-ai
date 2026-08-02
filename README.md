@@ -63,20 +63,21 @@ FindTheDoctor AI combines:
    ```
 
 3. Set up environment variables
+4. echo VITE_GEMINI_API_KEY=your_new_key_here > .env
    ```bash
-  echo VITE_GEMINI_API_KEY=your_new_key_here > .env
+  
    ```
    Then edit `.env` and add your Gemini API key:
    ```
    VITE_GEMINI_API_KEY=your_actual_gemini_api_key_here
    ```
 
-4. Run the development server
+5. Run the development server
    ```bash
    npm run dev
    ```
 
-5. Open `http://localhost:5173` in your browser
+6. Open `http://localhost:5173` in your browser
 
 ### Building for Production
 ```bash
